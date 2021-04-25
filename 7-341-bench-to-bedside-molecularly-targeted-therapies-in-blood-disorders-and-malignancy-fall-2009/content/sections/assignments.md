@@ -1,0 +1,45 @@
+---
+course_id: 7-341-bench-to-bedside-molecularly-targeted-therapies-in-blood-disorders-and-malignancy-fall-2009
+layout: course_section
+menu:
+  leftnav:
+    identifier: abb0e47a1066b085d18210d337599048
+    name: Assignments
+    weight: 40
+title: Assignments
+type: course
+uid: abb0e47a1066b085d18210d337599048
+
+---
+
+Weekly Assignment: Always Read All The Papers!
+----------------------------------------------
+
+When we meet you should cover the followings:
+
+*   Discuss the rationale and significance of the studies
+*   Hypothesis
+*   Experimental techniques and approaches
+*   Identify the key experiment and the controls
+*   Key figures and tables
+*   Interpretation of the results by the authors
+*   Do you agree to the authors' interpretation?
+*   Do you agree with the conclusion?
+
+At the end of each session, we will briefly introduce the two papers you will read for the following week.
+
+Personal Assignment: "Design An Experiment"
+-------------------------------------------
+
+Students will choose one of the papers presented during the course that they found particularly interesting.
+
+### Part 1: Written Paper (Weeks #2-10)
+
+Students submit a written paper about 2 pages long that contains the following.
+
+*   In two sentences summarize the underlying hypothesis and how this is tested in the paper.
+*   Suggest either an experiment that you think was missing in this paper, or a follow up experiment that will help answer one of the questions relevant to this paper. Describe the experimental design and key control experiments! Do not spend time describing which buffers or temperatures to use.
+
+### Part 2: Oral Presentation (Before Week #11)
+
+Students will give a short (10-15 min) oral presentation about the additional experiment they proposed. Since your classmates have already read the paper only a very brief summary of the paper is needed. Describe the unanswered question you propose to answer with your experiment. Explain how you designed your experiment, which controls you needed and what the results may tell you. Your classmates will join in a discussion of your ideas.
